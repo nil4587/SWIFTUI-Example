@@ -1,1 +1,1 @@
-Create a demo for SWIFT UI programming language.
+Created a demo app for SWIFT UI programming language.
